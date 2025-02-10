@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+This assignment taught me valuable lessons about parsing and structuring data in Python. When I first starte, I found it challenging when dealing with the string parsing. After working on this a bit i was able to figure out my parsing issues and move on. Overall, this assignment provided practical experience in handling real-world data processing tasks.
